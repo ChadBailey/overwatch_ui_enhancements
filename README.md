@@ -1,4 +1,4 @@
-# Idea: User Interface Enhancements
+# Idea: Inventory Management Improvements
 
 I have several ideas about how the interface for Overwatch could be improved with minimal effort and big improvements to the end user. These changes also have a hidden benefits to Blizzard that I will explain at the end, so it is a win-win-win (inexpensive, better for the users, better for the company) :)
 
