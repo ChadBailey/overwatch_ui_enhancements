@@ -8,11 +8,11 @@ When a new patch is dropped, it would be super cool to be able to easily see all
 
 ### As-Is
 
-![View New Items As-Is](images/view_items_as_is.png)
+![View New Items As-Is](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/view_items_as_is.png)
 
 ### Proposed
 
-![View New Items Proposed](images/view_items_proposed.png)
+![View New Items Proposed](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/view_items_proposed.png)
 
 > I did not have the time/patience to mock-up the menu, but ideally when you click either button it will give you a single page with a scrollable list of the new or event items respectively.
 
@@ -24,11 +24,11 @@ Not shown in the below mockup is the ability to add favorite heros. It would be 
 
 ### As-Is
 
-![Favorite Items As-Is](images/preferred_items_as-is.png)
+![Favorite Items As-Is](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/preferred_items_as-is.png)
 
 ### Proposed
 
-![Favorite Items Proposed](images/preferred_items_proposed.png)
+![Favorite Items Proposed](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/preferred_items_proposed.png)
 
 > IMPORTANT: Adding or removing items from favorites should be supported whether or not the player has the item. This will allow the player the ability to more easily find the items they intended to buy using their credits once earned.
 
@@ -38,15 +38,15 @@ This change is admittedly on the expensive end of the spectrum when it comes to 
 
 ### As-Is
 
-![Hero Kits As-Is](images/kits_as_is.png)
+![Hero Kits As-Is](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/kits_as_is.png)
 
-![Hero Kit Selection As-Is](images/kit_selection_as_is.png)
+![Hero Kit Selection As-Is](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/kit_selection_as_is.png)
 
 ### Proposed
 
-![Hero Kits Proposed](images/kits_proposed.png)
+![Hero Kits Proposed](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/kits_proposed.png)
 
-![Hero Kit Selection Proposed](images/kit_selection_proposed.png)
+![Hero Kit Selection Proposed](https://github.com/ChadBailey/overwatch_ui_enhancements/raw/master/images/kit_selection_proposed.png)
 
 ### Bonus Benefits
 
