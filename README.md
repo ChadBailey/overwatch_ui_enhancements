@@ -32,12 +32,6 @@ Not shown in the below mockup is the ability to add favorite heros. It would be 
 
 > IMPORTANT: Adding or removing items from favorites should be supported whether or not the player has the item. This will allow the player the ability to more easily find the items they intended to buy using their credits once earned.
 
-### Bonus Benefits
-
-Blizzard could use this data on the players' item preferences to better understand what players like and don't like. While one could argue that this information can already be inferred by the selection rate of the items, this would result in much more data to work with as well as cleaner data.
-
-Additionally, the better the inventory management system is, the more players will desire more items :)
-
 ## Hero Kits
 
 This change is admittedly on the expensive end of the spectrum when it comes to my suggestions, but I do think the payoff would be immense. Rather than picking skins in the player select screen, perhaps we could pick kits which are set up by the user ahead of time. Each kit would have stored in it the items the user added to the kit.
@@ -53,3 +47,9 @@ This change is admittedly on the expensive end of the spectrum when it comes to 
 ![Hero Kits Proposed](images/kits_proposed.png)
 
 ![Hero Kit Selection Proposed](images/kit_selection_proposed.png)
+
+### Bonus Benefits
+
+Blizzard could use this data on the players' item preferences to better understand what players like and don't like. While one could argue that this information can already be inferred by the selection rate of the items, this would result in much more data to work with as well as cleaner data.
+
+Additionally, the better the inventory management system is, the more players will desire more items and therefore purchase loot boxes :)
