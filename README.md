@@ -18,7 +18,7 @@ When a new patch is dropped, it would be super cool to be able to easily see all
 
 ## Favorite Items and Heros
 
-In the hero gallery it would be nice to have the ability to flag items based on preference. Where there is not currently a right-click menu, one could be added to "Add to favoites" "Remove from favorites" respectively. The only purpose of this would be for sorting, but it would help managing inventory a _lot_.
+In the hero gallery it would be nice to have the ability to flag items based on preference. Where there is not currently a right-click menu, one could be added to "Add to favoites" and "Remove from favorites" (not pictured) respectively. The only purpose of this would be for sorting, but it would help managing inventory a _lot_.
 
 Not shown in the below mockup is the ability to add favorite heros. It would be nice to have the same favoriting system for heros to sort favorite heros first in the gallery.
 
